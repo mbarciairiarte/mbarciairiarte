@@ -1,4 +1,6 @@
-### Hello! I'm Marcos Barcia 👋, 
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
+### Freelance full-stack
+
 
 I'm a management engineer with a passion for development and knowledge in Java and MySQL. My background gives me a broad perspective to address technological challenges and understand business needs.
 

@@ -1,4 +1,4 @@
-# Hola, mi nombre es Marcos Barcia 👋
+# Hi, My name is Marcos Barcia 👋
 ### Full-stack Developer 
 
 

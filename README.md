@@ -2,7 +2,7 @@
 ### Full-stack Developer 
 
 
-I'm a management engineer with a passion for development and knowledge in Java and MySQL. My background gives me a broad perspective to address technological challenges and understand business needs.
+I'm a management engineer, passionated about coding. My background gives me a broad perspective to address technological challenges and understand business needs.
 
 Everything starts with a Java FullStack bootcamp, my focus is on continuous learning and professional growth. In addition, I have experience in digital marketing, which allows me to understand how to leverage technology to drive effective strategies.
 

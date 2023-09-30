@@ -2,13 +2,13 @@
 ### Full-stack Developer 
 
 
-I'm a management engineer, passionated about coding. My background gives me a broad perspective to address technological challenges and understand business needs.
+💎I'm a management engineer, passionated about coding. My background gives me a broad perspective to address technological challenges and understand business needs.
 
-Everything starts with a Java FullStack bootcamp, my focus is on continuous learning and professional growth. In addition, I have experience in digital marketing, which allows me to understand how to leverage technology to drive effective strategies.
+🌱 Everything starts with a Java FullStack bootcamp, my focus is on continuous learning and professional growth. In addition, I have experience in digital marketing, which allows me to understand how to leverage technology to drive effective strategies.
 
 🔭 I'm currently working as technical support in the IT area, for the company Totalpack and also, I'm immersed in a backend course with Node.js and MongoDB, further expanding my skill set. I'm looking for opportunities as a trainee developer to collaborate on exciting projects and keep evolving
 
-# Tecnologías 
+# Stack 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
